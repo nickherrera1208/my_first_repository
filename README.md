@@ -12,3 +12,5 @@
 ## Table of contents
 
 - example_file.txt
+
+Hello World, I love using git
